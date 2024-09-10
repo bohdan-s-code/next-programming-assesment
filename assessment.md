@@ -36,6 +36,7 @@ Open View Photo page, when user clicks on image item.
 The design for View Photo page: https://drive.google.com/file/d/1N_k8CSVBuiBmDpUugWt90YU_QF4iBHN0/view?usp=sharing
 
 Photo by id endpoint: https://jsonplaceholder.typicode.com/photos/1
+
 Album by id endpoint: https://jsonplaceholder.typicode.com/albums/1
 
 This task has the following requirements:

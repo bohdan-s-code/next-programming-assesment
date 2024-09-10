@@ -30,7 +30,7 @@ Add ability to Like/Unlike Photo in Gallery. This task has the following require
 ### Task 3
 The liked photos should remain, if user reload the page or open page on the new tab.
 
-### Task 4
+### **Task 4
 Open View Photo page, when user clicks on image item. 
 
 The design for View Photo page: https://drive.google.com/file/d/1N_k8CSVBuiBmDpUugWt90YU_QF4iBHN0/view?usp=sharing

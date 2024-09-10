@@ -1,3 +1,5 @@
+# Next.js Programming Assessment
+
 ## Background
 As a Web developer, one of the tasks you'll often be faced with is to bring a design to life, communicating with an API in order to surface the information used in the design, and providing the ability for user interaction.
 With this exercise we are interested in seeing how you approach front end focused task. 

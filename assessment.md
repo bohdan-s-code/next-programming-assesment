@@ -21,16 +21,22 @@ Create the Photo Gallery Home page. This task has the following requirements:
 - Display the list of photos as grid on home page.
 - Display loading state, when the API call is processing.
 
+**Bonus: Add tests for this functionality if possible**
+
 ### Task 2
 Add ability to Like/Unlike Photo in Gallery. This task has the following requirements:
 - User should have ability to like/unlike photo.
 - User should be able to see liked photos in dropdown(Refer to design).
 - User should be able to unlike photo from dropdown menu.
 
+**Bonus: Add tests for this functionality if possible**
+
 ### Task 3
 The liked photos should remain, if user reload the page or open page on the new tab.
 
-### **Task 4
+**Bonus: Add tests for this functionality if possible**
+
+### *Task 4
 Open View Photo page, when user clicks on image item. 
 
 The design for View Photo page: https://drive.google.com/file/d/1N_k8CSVBuiBmDpUugWt90YU_QF4iBHN0/view?usp=sharing
@@ -42,6 +48,8 @@ Album by id endpoint: https://jsonplaceholder.typicode.com/albums/1
 This task has the following requirements:
 - When user clicks on image item on Home page - navigate to View photo page with route `/photos/${id}`
 - The new page should display the image, title and album name(Refer to design).
+
+**Bonus: Add tests for this functionality if possible**
 
 
 

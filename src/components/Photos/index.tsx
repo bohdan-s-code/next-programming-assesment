@@ -7,17 +7,13 @@ import { useGetPhotos } from '../../hooks/useGetPhotos';
 
 export function Photos() {
   const { photos } = useGetPhotos();
-
-  // TODO: add loading state and error handling
   console.log(photos);
 
   return (
     <>
-      <h3>Results</h3>
+      <h3>{photos.length} Results</h3>
 
-      <div className={styles.photosContainer}>
-        {/* TODO: implement photos grid */}
-      </div>
+      <div data-testid="photos" className={styles.photosContainer}></div>
     </>
   );
 }
